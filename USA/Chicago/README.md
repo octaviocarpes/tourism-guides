@@ -13,10 +13,11 @@
 3. **Art Institute of Chicago** – One of the world’s top art museums, it’s right next to Millennium Park and features a vast collection, from classic to contemporary art.
    - [Art Institute of Chicago on Google Maps](https://www.google.com/maps/place/The+Art+Institute+of+Chicago/@41.8796031,-87.6249253,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2ca3e2d94695:0x4829f3cc9ca2d0de!8m2!3d41.8796031!4d-87.6223504!16s%2Fm%2F027hqc_?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
-**Afternoon**  
+**Afternoon**
+
 4. **Chicago Cultural Center** – Just a 5-minute walk from the Art Institute, this building hosts free art exhibits and boasts the world’s largest Tiffany stained-glass dome.
 
-    - [Chicago Cultural Center on Google Maps](https://www.google.com/maps/place/Chicago+Cultural+Center/@41.8837536,-87.6275264,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2ca5b948341f:0x32cea0c47409f03f!8m2!3d41.8837536!4d-87.6249515!16zL20vMDV6djA5?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
+   - [Chicago Cultural Center on Google Maps](https://www.google.com/maps/place/Chicago+Cultural+Center/@41.8837536,-87.6275264,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2ca5b948341f:0x32cea0c47409f03f!8m2!3d41.8837536!4d-87.6249515!16zL20vMDV6djA5?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
 5. **Lincoln Park Zoo** - If you have some time remaining go up to the Lincoln Park Zoo.
 
@@ -43,10 +44,11 @@
 3. **Take an Architecture Boat Tour** – Walk a few blocks to the river and hop on a boat tour to view Chicago’s architectural wonders from the water.
    - [Boat Tour Departure Point on Google Maps](https://www.google.com/maps/place/Wendella+Tours+%26+Cruises/@41.8881383,-87.6246129,18.5z/data=!3m1!5s0x880e2caec4d411df:0x8dc3c2c12ee669f7!4m14!1m7!3m6!1s0x880e2ca3b888695d:0x9343105d14c3dc53!2sChicago+Architecture+Center!8m2!3d41.8880144!4d-87.6235474!16s%2Fm%2F026yk42!3m5!1s0x880e2caebdbae43b:0x94ac35ee21e943c!8m2!3d41.8892107!4d-87.6244245!16s%2Fg%2F12lrfhx2g?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
-**Afternoon**  
+**Afternoon**
+
 4. **Skydeck Chicago at Willis Tower** – Head to the top of the iconic Willis Tower (Sears Tower) and experience breathtaking views of the city from the Skydeck.
 
-    - [Willis Tower Skydeck on Google Maps](https://www.google.com/maps/place/Skydeck+Chicago/@41.8788761,-87.6384899,17z/data=!3m2!4b1!5s0x880e2cb9ef33ea47:0x488801c0e065a0e!4m6!3m5!1s0x880e2cbee269fbbb:0xcf09307f0945d4fd!8m2!3d41.8788761!4d-87.635915!16s%2Fg%2F1hhnxgkgv?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
+   - [Willis Tower Skydeck on Google Maps](https://www.google.com/maps/place/Skydeck+Chicago/@41.8788761,-87.6384899,17z/data=!3m2!4b1!5s0x880e2cb9ef33ea47:0x488801c0e065a0e!4m6!3m5!1s0x880e2cbee269fbbb:0xcf09307f0945d4fd!8m2!3d41.8788761!4d-87.635915!16s%2Fg%2F1hhnxgkgv?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
 5. **Chicago Board of Trade Building** – Explore the historic home of the commodities exchange, a prominent example of Art Deco architecture.
    - [Chicago Board of Trade on Google Maps](https://www.google.com/maps/place/Chicago+Board+of+Trade+Building/@41.8774454,-87.6336754,17z/data=!3m2!4b1!5s0x880fd24042390293:0x3b69feed3bdf180!4m6!3m5!1s0x880e2cbc356277c5:0xfe6b941a442ed40f!8m2!3d41.8774454!4d-87.6318547!16s%2Fm%2F02pm2x1?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
@@ -63,7 +65,7 @@
 **Afternoon**  
 2. **Shedd Aquarium** – A 5-minute walk from the Field Museum, the Shedd Aquarium offers a fascinating view of marine life, from beluga whales to sharks.
 
-    - [Shedd Aquarium on Google Maps](https://www.google.com/maps/place/Shedd+Aquarium/@41.866261,-87.6195554,17z/data=!3m1!5s0x880e2b637f0dfc79:0xf2dd92cafc3aeb65!4m14!1m7!3m6!1s0x880e2b7d33304057:0xb51220475f7ec7da!2sField+Museum!8m2!3d41.866261!4d-87.6169805!16zL20vMDIxY3pj!3m5!1s0x880e2b635fb775f9:0x32059de3df50fbdf!8m2!3d41.8675726!4d-87.614038!16zL20vMDJqdzB6?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
+   - [Shedd Aquarium on Google Maps](https://www.google.com/maps/place/Shedd+Aquarium/@41.866261,-87.6195554,17z/data=!3m1!5s0x880e2b637f0dfc79:0xf2dd92cafc3aeb65!4m14!1m7!3m6!1s0x880e2b7d33304057:0xb51220475f7ec7da!2sField+Museum!8m2!3d41.866261!4d-87.6169805!16zL20vMDIxY3pj!3m5!1s0x880e2b635fb775f9:0x32059de3df50fbdf!8m2!3d41.8675726!4d-87.614038!16zL20vMDJqdzB6?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
 ---
 
