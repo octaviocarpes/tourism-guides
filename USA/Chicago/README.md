@@ -16,15 +16,15 @@
 **Afternoon**  
 4. **Chicago Cultural Center** – Just a 5-minute walk from the Art Institute, this building hosts free art exhibits and boasts the world’s largest Tiffany stained-glass dome.
 
-- [Chicago Cultural Center on Google Maps](https://www.google.com/maps/place/Chicago+Cultural+Center/@41.8837536,-87.6275264,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2ca5b948341f:0x32cea0c47409f03f!8m2!3d41.8837536!4d-87.6249515!16zL20vMDV6djA5?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
+    - [Chicago Cultural Center on Google Maps](https://www.google.com/maps/place/Chicago+Cultural+Center/@41.8837536,-87.6275264,17z/data=!3m1!4b1!4m6!3m5!1s0x880e2ca5b948341f:0x32cea0c47409f03f!8m2!3d41.8837536!4d-87.6249515!16zL20vMDV6djA5?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
 5. **Lincoln Park Zoo** - If you have some time remaining go up to the Lincoln Park Zoo.
 
-- [Lincoln Park Zoo](https://www.google.com/maps/place/Lincoln+Park+Zoo/@41.9221804,-87.6346356,17.75z/data=!4m14!1m7!3m6!1s0x880fd30071b70927:0xb56b9698c974aa02!2sZoo+parking!8m2!3d41.9252713!4d-87.6333676!16s%2Fg%2F11w3gqf5zg!3m5!1s0x880fd36b093a9a07:0x940cc06f90294db!8m2!3d41.921703!4d-87.6336403!16s%2Fm%2F025v4fb?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
+   - [Lincoln Park Zoo](https://www.google.com/maps/place/Lincoln+Park+Zoo/@41.9221804,-87.6346356,17.75z/data=!4m14!1m7!3m6!1s0x880fd30071b70927:0xb56b9698c974aa02!2sZoo+parking!8m2!3d41.9252713!4d-87.6333676!16s%2Fg%2F11w3gqf5zg!3m5!1s0x880fd36b093a9a07:0x940cc06f90294db!8m2!3d41.921703!4d-87.6336403!16s%2Fm%2F025v4fb?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
 6. **Navy Pier** – Walk east to reach Navy Pier, where you can enjoy lakeside views, a Ferris wheel, shops, cafes and a fireworks show.
 
-- [Navy Pier on Google Maps](https://www.google.com/maps/place/Navy+Pier/@41.8949461,-87.6290978,15.75z/data=!3m1!5s0x880e2b4ba5b33581:0x1fc721b72d7b73c4!4m14!1m7!3m6!1s0x880fd30071b70927:0xb56b9698c974aa02!2sZoo+parking!8m2!3d41.9252713!4d-87.6333676!16s%2Fg%2F11w3gqf5zg!3m5!1s0x880e2b4d91f12edb:0xd0acdb96b088a4dc!8m2!3d41.8918633!4d-87.6050944!16zL20vMGM3bG4?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
+   - [Navy Pier on Google Maps](https://www.google.com/maps/place/Navy+Pier/@41.8949461,-87.6290978,15.75z/data=!3m1!5s0x880e2b4ba5b33581:0x1fc721b72d7b73c4!4m14!1m7!3m6!1s0x880fd30071b70927:0xb56b9698c974aa02!2sZoo+parking!8m2!3d41.9252713!4d-87.6333676!16s%2Fg%2F11w3gqf5zg!3m5!1s0x880e2b4d91f12edb:0xd0acdb96b088a4dc!8m2!3d41.8918633!4d-87.6050944!16zL20vMGM3bG4?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
 ---
 
@@ -46,7 +46,7 @@
 **Afternoon**  
 4. **Skydeck Chicago at Willis Tower** – Head to the top of the iconic Willis Tower (Sears Tower) and experience breathtaking views of the city from the Skydeck.
 
-- [Willis Tower Skydeck on Google Maps](https://www.google.com/maps/place/Skydeck+Chicago/@41.8788761,-87.6384899,17z/data=!3m2!4b1!5s0x880e2cb9ef33ea47:0x488801c0e065a0e!4m6!3m5!1s0x880e2cbee269fbbb:0xcf09307f0945d4fd!8m2!3d41.8788761!4d-87.635915!16s%2Fg%2F1hhnxgkgv?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
+    - [Willis Tower Skydeck on Google Maps](https://www.google.com/maps/place/Skydeck+Chicago/@41.8788761,-87.6384899,17z/data=!3m2!4b1!5s0x880e2cb9ef33ea47:0x488801c0e065a0e!4m6!3m5!1s0x880e2cbee269fbbb:0xcf09307f0945d4fd!8m2!3d41.8788761!4d-87.635915!16s%2Fg%2F1hhnxgkgv?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
 5. **Chicago Board of Trade Building** – Explore the historic home of the commodities exchange, a prominent example of Art Deco architecture.
    - [Chicago Board of Trade on Google Maps](https://www.google.com/maps/place/Chicago+Board+of+Trade+Building/@41.8774454,-87.6336754,17z/data=!3m2!4b1!5s0x880fd24042390293:0x3b69feed3bdf180!4m6!3m5!1s0x880e2cbc356277c5:0xfe6b941a442ed40f!8m2!3d41.8774454!4d-87.6318547!16s%2Fm%2F02pm2x1?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
@@ -63,7 +63,7 @@
 **Afternoon**  
 2. **Shedd Aquarium** – A 5-minute walk from the Field Museum, the Shedd Aquarium offers a fascinating view of marine life, from beluga whales to sharks.
 
-- [Shedd Aquarium on Google Maps](https://www.google.com/maps/place/Shedd+Aquarium/@41.866261,-87.6195554,17z/data=!3m1!5s0x880e2b637f0dfc79:0xf2dd92cafc3aeb65!4m14!1m7!3m6!1s0x880e2b7d33304057:0xb51220475f7ec7da!2sField+Museum!8m2!3d41.866261!4d-87.6169805!16zL20vMDIxY3pj!3m5!1s0x880e2b635fb775f9:0x32059de3df50fbdf!8m2!3d41.8675726!4d-87.614038!16zL20vMDJqdzB6?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
+    - [Shedd Aquarium on Google Maps](https://www.google.com/maps/place/Shedd+Aquarium/@41.866261,-87.6195554,17z/data=!3m1!5s0x880e2b637f0dfc79:0xf2dd92cafc3aeb65!4m14!1m7!3m6!1s0x880e2b7d33304057:0xb51220475f7ec7da!2sField+Museum!8m2!3d41.866261!4d-87.6169805!16zL20vMDIxY3pj!3m5!1s0x880e2b635fb775f9:0x32059de3df50fbdf!8m2!3d41.8675726!4d-87.614038!16zL20vMDJqdzB6?entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D)
 
 ---
 
